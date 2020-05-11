@@ -1,2 +1,4 @@
 # Learn-step-by-step-vue
-为 vue3 开发准备的一本小册
+一步一步学习 vue
+
+为 vue 准备的一本小册
