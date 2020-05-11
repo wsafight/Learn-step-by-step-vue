@@ -32,4 +32,4 @@ branches:
 env:
   global:
     - REF=github.com/wsafight/Learn-step-by-step-vue.git # 设置 github 地址
-    - TOKEN=21c270569f30dbdbec109f279c9cfd9d4071d4d6
+    - TOKEN=787d50775802c1d79af666b60b84d9c7b5e6df4d
