@@ -30,12 +30,12 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "Learn-step-by-step-vue"
     },
     "github-buttons": {
       "buttons": [{
         "user": "wsafight",
-        "repo": "gitbook-template",
+        "repo": "Learn-step-by-step-vue",
         "type": "star",
         "size": "small",
         "count": true
